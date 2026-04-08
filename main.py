@@ -1,4 +1,3 @@
-print("Hello World! This is my first project 🚀")
 print("Welcome to My First Project 🚀")
 
 name = input("Enter your name: ")
