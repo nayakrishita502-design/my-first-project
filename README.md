@@ -1,17 +1,15 @@
 # My First Project 🚀
 
 ## 📌 About
-This is my first project built for a hackathon.
+This is my first GitHub project built during a hackathon.
 
-## 💡 Idea
-(Write your idea here later)
-
-## 🛠 Tech Stack
-- Python
-- (Add more later)
+## 📂 Project Structure
+- main.py → Entry point
+- src/ → Application logic
+- data/ → Dataset files
 
 ## 🎯 Goal
-To learn and build something awesome!
+Learn GitHub and build a real project step-by-step
 
 ## 👩‍💻 Author
 - Rishita Nayak
